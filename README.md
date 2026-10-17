@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Thang Le
 
-<!--
-**thangle1212/thangle1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Information Technology student interested in IT Support
+and System Administration.
 
-Here are some ideas to get you started:
+### Interests
+- Windows & PC hardware
+- Linux / System Administration
+- Virtualization
+- IT troubleshooting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+- Windows 10/11
+- Debian / Ubuntu Server
+- VMware Workstation
+- SSH
+- Git / GitHub / GitLab
